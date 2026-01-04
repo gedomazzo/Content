@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add"
+        android:title="add"
+        android:orderInCategory="100" />
+
+    <item
+        android:id="@+id/mull"
+        android:title="mul"
+        android:orderInCategory="200" />
+
+    <item
+        android:id="@+id/minus"
+        android:title="minus"
+        android:orderInCategory="300" />
+
+    <item
+        android:id="@+id/div"
+        android:title="division"
+        android:orderInCategory="400" />
+
+
+
+    <item
+        android:id="@+id/clear"
+        android:title="clear"
+        android:orderInCategory="500" />
+</menu>
