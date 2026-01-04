@@ -23,7 +23,7 @@
             android:layout_height="300px" />
 
         <EditText
-            android:id="@+id/ed1"
+            android:id="@+id/num1"
             android:layout_width="match_parent"
             android:layout_height="100px"
             android:ems="10"
@@ -34,7 +34,7 @@
             android:layout_height="100px" />
 
         <EditText
-            android:id="@+id/ed2"
+            android:id="@+id/num2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -45,7 +45,7 @@
             android:layout_height="400px" />
 
         <TextView
-            android:id="@+id/txt"
+            android:id="@+id/answer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center" />
@@ -55,7 +55,7 @@
             android:layout_height="400px" />
 
         <TextView
-            android:id="@+id/txt2"
+            android:id="@+id/hint"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
